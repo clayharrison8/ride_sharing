@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993812131884",
+    "project_id": "ridesharing-f1b13",
+    "storage_bucket": "ridesharing-f1b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993812131884:android:10cfa1b0def7ac2dfda189",
+        "android_client_info": {
+          "package_name": "com.ch413.ride_sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993812131884-mefs4h5np6dnqosbje8msto75p9p73si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Zg_Xiabw1L-COUpiGGuQeqGCFy6UcZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993812131884-mefs4h5np6dnqosbje8msto75p9p73si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
